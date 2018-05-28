@@ -4,7 +4,7 @@
 Snippets for Material Icons using it's unicodes value instead of ligatures. For compatibility with older browsers or when developing for Android  <= 4.4 Kit Kat
 It also provides previews for the icons, based on atom-autocomplete-font-awesome
 
-![Demo](https://user-images.githubusercontent.com/1245573/35697669-e38c0f8c-0758-11e8-912a-782bb257bb6d.gif)
+![Demo](demo/atom-material-icons-snippet.gif)
 
 ## Features
 

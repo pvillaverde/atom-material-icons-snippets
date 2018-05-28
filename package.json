@@ -16,7 +16,7 @@
 		"ligatures",
 		"preview"
 	],
-	"repository": "https://github.com/atom/material-icons-snippets",
+	"repository": "https://github.com/pvillaverde/atom-material-icons-snippets",
 	"license": "MIT",
 	"engines": {
 		"atom": ">=1.0.0 <2.0.0"
