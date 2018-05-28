@@ -1,0 +1,40 @@
+{
+	"name": "material-icons-snippets",
+	"main": "./lib/main",
+	"version": "1.0.0",
+	"description": "Material Icons Autocomplete with unicodes for compatibility - Also icon previews in atom",
+	"keywords": [
+		"autocomplete",
+		"material",
+		"preview",
+		"icons",
+		"mdicon",
+		"snippets",
+		"ascii",
+		"entitie",
+		"codepoints",
+		"ligatures",
+		"preview"
+	],
+	"repository": "https://github.com/atom/material-icons-snippets",
+	"license": "MIT",
+	"engines": {
+		"atom": ">=1.0.0 <2.0.0"
+	},
+	"author": {
+		"name": "Pablo Villaverde",
+		"email": "pvillaverdecastro@gmail.com",
+		"url": "https://www.linkedin.com/in/pvillaverdecastro"
+	},
+	"bugs": {
+		"url": "https://github.com/pvillaverde/atom-material-icons-snippets/issues"
+	},
+	"providedServices": {
+		"autocomplete.provider": {
+			"versions": {
+				"2.0.0": "getProvider"
+			}
+		}
+	},
+	"dependencies": {}
+}
